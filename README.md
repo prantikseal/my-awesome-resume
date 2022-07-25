@@ -1,2 +1,2 @@
-# my-awespme-resume
+# my-awesome-resume
 A resume about me!
